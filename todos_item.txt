@@ -1,6 +1,6 @@
-new todo 1
-new todo 2
-new todo 3
-new todo 5
-new todo 6
-new todo 7
+1 manja potrošnja pijaca
+2 manja potrošnja radnja
+3 manja potrošnja šetnja grad
+4 manja potrošnja sitne nabavke
+5 manja potrošnja ostalo
+
